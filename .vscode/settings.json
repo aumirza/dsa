@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "iostream": "cpp"
+  },
+  "code-runner.executorMap": {
+    "cpp": "cd $dir && g++ $fileName -o $workspaceRoot/build/$fileNameWithoutExt && $workspaceRoot/build/$fileNameWithoutExt"
+  },
+  "code-runner.saveFileBeforeRun": true, // Automatically save the file before running
+  "code-runner.clearPreviousOutput": true // Clear the output panel before running
+}
